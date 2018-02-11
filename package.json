@@ -1,7 +1,7 @@
 {
-  "name": "guidebot",
-  "version": "2.0.3",
-  "description": "A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community",
+  "name": "jelli",
+  "version": "1.0.0",
+  "description": "A Discord bot.",
   "main": "node bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/An-Idiots-Guide/guidebot.git"
+    "url": "git+https://github.com/JelliBot/Jelli.git"
   },
-  "author": "The Idiot's Guide Community",
+  "author": "Felix Cameron",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/An-Idiots-Guide/guidebot/issues"
+    "url": "https://github.com/JelliBot/Jelli/issues"
   },
-  "homepage": "https://github.com/An-Idiots-Guide/guidebot#readme",
+  "homepage": "https://github.com/JelliBot/Jelli#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "discord.js": "^11.2.1",
