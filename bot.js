@@ -5,7 +5,6 @@ const http = require('http')
 const express = require('express')
 const app = express()
 const yt = require('ytdl-core')
-const config = require('./config.json')
 
 app.get("/", (request, response) => {
   console.log(Date.now() + " Ping Received");
