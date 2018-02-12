@@ -39,4 +39,4 @@ client.on("ready", () => {
   client.user.setGame(`on ${client.guilds.size} servers`)
 })
 
-client.login(config.token)
+client.login(process.env.BOT_TOKEN)
